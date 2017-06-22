@@ -1,0 +1,19 @@
+{
+  "name": "require-remote",
+  "version": "1.0.0",
+  "description": "Require modules from any URL",
+  "main": "index.js",
+  "repository": "git@github.com:pablopunk/require-remote.git",
+  "author": "Pablo Varela <pablovarela182@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^7.0.0",
+    "require-from-string": "^1.2.1"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^0.19.1"
+  }
+}
