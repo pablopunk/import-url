@@ -6,6 +6,9 @@
   "repository": "git@github.com:pablopunk/require-remote.git",
   "author": "Pablo Varela <pablovarela182@gmail.com>",
   "license": "MIT",
+  "tags": [
+    "npm", "node", "require", "remote", "url", "async"
+  ],
   "dependencies": {
     "got": "^7.0.0",
     "require-from-string": "^1.2.1"
