@@ -1,6 +1,6 @@
 {
   "name": "require-remote",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Require modules from any URL",
   "main": "index.js",
   "repository": "git@github.com:pablopunk/require-remote.git",
