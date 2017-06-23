@@ -18,8 +18,8 @@ npm install require-remote
 ## Usage
 
 ```js
-const foo = await require('require-remote')('http://module.com')
-console.log(typeof foo) //=> 'function'
+const foo = await require('require-remote')('module.now.sh')
+console.log(foo()) //=> 'awesome!'
 ```
 
 Right now it doesn't support modules requiring other modules. So if your remote module does a `require()` it will fail.
