@@ -5,7 +5,7 @@
   <i>Require modules from any URL</i>
 </p>
 <p align="center">
-  <a href="https://www.npmjs.com/package/require-remote"><img src="https://img.shields.io/npm/dt/require-remote.svg" /></a>
+  <a href="https://www.npmjs.com/package/import-url"><img src="https://img.shields.io/npm/dt/import-url.svg" /></a>
 </p>
 
 
