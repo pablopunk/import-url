@@ -1,6 +1,6 @@
 {
   "name": "import-url",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Require modules from any URL",
   "main": "index.js",
   "repository": "git@github.com:pablopunk/import-url.git",
