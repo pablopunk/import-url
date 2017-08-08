@@ -1,5 +1,5 @@
 
-# require-remote
+# import-url
 
 <p align="center">
   <i>Require modules from any URL</i>
@@ -12,13 +12,13 @@
 ## Install
 
 ```bash
-npm install require-remote
+npm install import-url
 ```
 
 ## Usage
 
 ```js
-const foo = await require('require-remote')('module.now.sh')
+const foo = await require('import-url')('module.now.sh')
 console.log(foo()) //=> 'awesome!'
 ```
 
@@ -33,6 +33,9 @@ Feel free to open an _issue_ or a _PR_.
 
 [__MIT license__](license)
 
+## Related
+
+This module used to be named `require-remote` and still still available [on npm](https://www.npmjs.com/package/require-remote).
 
 ## Author
 
